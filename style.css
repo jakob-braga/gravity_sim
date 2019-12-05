@@ -1,0 +1,41 @@
+.all {
+    background:#777;
+}
+
+.options {
+    position:absolute;
+    top: 5px;
+    left: 1020px;
+    width: 250px;
+    height:550px;
+    background:#202020;
+    text-align: center;
+    font-family: "Courier New", Times, serif;
+    color: #777
+}
+
+.title {
+    margin-top: 5px;
+    margin-bottom: 40px;
+}
+
+.headers {
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.nums {
+    color: #202020;
+    text-align: center;
+    font-weight: bold;
+    background-color: honeydew;
+    margin-left: 180px;
+    margin-right: 20px;
+    margin-bottom: 80px;
+    margin-top: 10px;
+}
+
+.refresh_button {
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
